@@ -1,4 +1,16 @@
-# Deep Learning and its Applications to Pollen Analysis
+<div align="center">
+<h1>Deep Learning and its Applications to Pollen Analysis</h1>
+
+[**Shu Kong**](https://aimerykong.github.io/)
+
+
+<img src='misc/logo.jpg'>
+
+</div>
+
+
+
+
 
 [Shu Kong](https://aimerykong.github.io/)
 
