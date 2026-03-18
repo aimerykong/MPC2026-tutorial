@@ -9,7 +9,15 @@ This repository hosts teaching materials for the short course at the [43rd Mid-C
 Slides will also be uploaded after this short course.
 
 
-## syllabus
+## Important Date
+| Important Event | Date |
+| :-------------- | :--- |
+| MPC | March 23-26, 2026 |
+| Short Course | March 26, 2026 |
+
+
+
+## Syllabus
 The syllabus of this course is as follows.
 ![teaser](misc/syllabus.jpg)
 
