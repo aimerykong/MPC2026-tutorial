@@ -23,4 +23,6 @@ The syllabus of this course is as follows.
 
 
 ## Contact
-[Shu Kong](https://aimerykong.github.io/)
+ - Regarding MPC2026, contact the organizers listed in the [website](https://striresearch.si.edu/mpc2026/)
+ - Regarding MPC2026, contact the instructor [Shu Kong](https://aimerykong.github.io/) via aimerykong@gmail.com with a subject line "*short course at MPC2026*"
+
