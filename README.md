@@ -26,7 +26,7 @@ The syllabus of this course is as follows.
 
 ## Contact
  - Regarding MPC2026, contact the organizers listed in the [website](https://striresearch.si.edu/mpc2026/)
- - Regarding MPC2026, contact the instructor [Shu Kong](https://aimerykong.github.io/) via aimerykong@gmail.com with a subject line "*short course at MPC2026*"
+ - Regarding the short course, contact the instructor [Shu Kong](https://aimerykong.github.io/) via aimerykong@gmail.com with a subject line "*short course at MPC2026*"
 
 ## References
 1. Kong, et al., ["Spatially Aware Dictionary Learning and Coding for Fossil Pollen Identification"](https://arxiv.org/abs/1605.00775), CVPRW, 2016
