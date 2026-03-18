@@ -21,6 +21,11 @@ The syllabus of this course is as follows.
 - The full-day course will take place from 9:00 a.m. – 5:00 p.m. at the Center for Tropical Paleoecology and Archaeology (CTPA), March 26, 2026.
 - The MPC will take place on March 23-26, 2026, at the Smithsonian Tropical Research Institute (STRI) in Panama, one of the most biodiverse and ecologically rich regions in the world.
 
+## Materials
+
+- Jupyter Notebook files are for hands-on coding. They can be imported to Google Colab, which will be used in this short course.
+- For each Jupyter Notebook file, there is an instruction file in pdf format, providing important details.
+- Slides in pdf will be uploaded after this course (by April, 2026).
 
 
 ## Contact
