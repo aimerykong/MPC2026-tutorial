@@ -6,7 +6,15 @@
 </div>
 
 This repository hosts teaching materials for the short course at the [43rd Mid-Continent Paleobotanical Colloquium](https://striresearch.si.edu/mpc2026/).
-Slides will also be uploaded after this short course.
+Focusing on the theme of applying deep learning to automate pollen analysis, this course covers relevant techniques in computer vision, machine learning, and deep learning.
+It will provide hands-on coding experience to demonstrate how to apply these techniques to pollen image processing, recognition, segmentation/detection, novel species recognition, and so on.
+It will also teach how to exploit foundation models or AI agents for more precise pollen recognition and detection.
+Slides will be uploaded after this short course. Refer to the following for the syllabus and important dates.
+
+
+## Syllabus
+The syllabus of this course is as follows.
+![teaser](misc/syllabus.jpg)
 
 
 ## Important Date
@@ -14,12 +22,6 @@ Slides will also be uploaded after this short course.
 | :-------------- | :--- |
 | MPC | March 23-26, 2026 |
 | Short Course | March 26, 2026 |
-
-
-
-## Syllabus
-The syllabus of this course is as follows.
-![teaser](misc/syllabus.jpg)
 
 
 ## Contact
