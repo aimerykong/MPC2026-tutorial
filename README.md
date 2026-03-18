@@ -26,3 +26,10 @@ The syllabus of this course is as follows.
  - Regarding MPC2026, contact the organizers listed in the [website](https://striresearch.si.edu/mpc2026/)
  - Regarding MPC2026, contact the instructor [Shu Kong](https://aimerykong.github.io/) via aimerykong@gmail.com with a subject line "*short course at MPC2026*"
 
+## References
+1. Kong, et al., ["Spatially Aware Dictionary Learning and Coding for Fossil Pollen Identification"](https://arxiv.org/abs/1605.00775), CVPRW, 2016
+2. Punyasena, et al., ["Automated identification of diverse Neotropical pollen samples using convolutional neural networks"](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13917), Methods in Ecology and Evolution, 2021
+3. Romero, et al., ["Improving the taxonomy of fossil pollen using convolutional neural networks and superresolution microscopy"](https://www.pnas.org/doi/10.1073/pnas.2007324117), PNAS, 2020
+4. Adaïmé, et al., ["Deep learning approaches to the phylogenetic placement of extinct pollen morphotypes"](https://academic.oup.com/pnasnexus/article/3/1/pgad419/7471798), PNAS Nexus, 2024
+5. Feng, et al., ["Addressing the “open world” - detecting and segmenting pollen on palynological slides with deep learning"](https://www.cambridge.org/core/journals/paleobiology/article/addressing-the-open-world-detecting-and-segmenting-pollen-on-palynological-slides-with-deep-learning/7F12E2B1F72DC18ABA73D460A90BCDD4), Paleobiology, 2025
+6. Adaïmé, et al., ["Deep learning of fossil pollen morphology reveals 25,000 years of ecological change in East African grasslands"](https://www.biorxiv.org/content/10.1101/2024.09.23.612957v3), 2026
