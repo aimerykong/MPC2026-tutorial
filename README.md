@@ -1,25 +1,18 @@
 <div align="center">
 <h1>Deep Learning and its Applications to Pollen Analysis</h1>
 
-[**Shu Kong**](https://aimerykong.github.io/)
-
 
 <img src='misc/logo.jpg'>
-
 </div>
 
-
-
-
-
-[Shu Kong](https://aimerykong.github.io/)
-
 This repository hosts teaching materials for the short course at the [43rd Mid-Continent Paleobotanical Colloquium](https://striresearch.si.edu/mpc2026/).
-Slides will be uploaded after this short course.
-
-![teaser](misc/logo.jpg)
+Slides will also be uploaded after this short course.
 
 
-
-The syllabus of this course is below.
+## syllabus
+The syllabus of this course is as follows.
 ![teaser](misc/syllabus.jpg)
+
+
+## Contact
+[Shu Kong](https://aimerykong.github.io/)
