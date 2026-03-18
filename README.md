@@ -17,11 +17,10 @@ The syllabus of this course is as follows.
 ![teaser](misc/syllabus.jpg)
 
 
-## Important Date
-| Important Event | Date |
-| :-------------- | :--- |
-| MPC | March 23-26, 2026 |
-| Short Course | March 26, 2026 |
+## Time and Venue
+- The full-day course will take place from 9:00 a.m. – 5:00 p.m. at CTPA, March 26, 2026.
+- The MPC will take place on March 23-26, 2026, at the Smithsonian Tropical Research Institute (STRI) in Panama, one of the most biodiverse and ecologically rich regions in the world.
+
 
 
 ## Contact
