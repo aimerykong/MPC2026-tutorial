@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Deep Learning and its Applications to Pollen Analysis</h1>
+<h1>Short Course: Deep Learning and its Applications to Pollen Analysis</h1>
 
 
 <img src='misc/logo.jpg'>
