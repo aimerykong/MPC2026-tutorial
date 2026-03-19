@@ -1,0 +1,850 @@
+ply,PALIV_B_17.8_slide1_scan2_350_1_slice6.bmp,0
+ply,PALIV_22-23_slide 1_scan3_316_1_slice6.bmp,0
+ply,PALIV_B_17.8_slide1_scan2_465_1_slice5.bmp,0
+ply,PALIV_B_Sample_31-32_scan1_212_1_slice6.bmp,0
+ply,PALIV_B_Sample_26-27_glyc_scan3_91_1_slice0.bmp,0
+ply,PALIV_B_Sample_32-33_glyc_scan1_269_1_slice4.bmp,0
+ply,PALIV_21-22_slide 1_scan1_14_1_slice5.bmp,0
+ply,PALIV_23-24_slide 1_scan1_174_1_slice2.bmp,0
+ply,PALIV_27-28_glycerine_scan 2_87_1_slice0.bmp,0
+ply,PALIV_36-37_slide 1_scan1_320_1_slice2.bmp,0
+hed,PALIV_24-25_slide 1_scan1_134_1_slice6.bmp,1
+hed,PALIV_B_Sample_34-35_glyc_scan1_293_1_slice6.bmp,1
+hed,PALIV_45-46_glycerine_slide 1_scan1_137_1_slice5.bmp,1
+hed,PALIV_25-26_slide 1_scan2_334_1_slice5.bmp,1
+hed,PALIV_25-26_slide 1_scan1_164_1_slice3.bmp,1
+hed,PALIV_B_Sample_32-33_glyc_scan1_97_1_slice3.bmp,1
+hed,PALIV_B_17.8_slide1_scan2_200_1_slice5.bmp,1
+hed,PALIV_27-28_glycerine_scan 2_255_1_slice5.bmp,1
+hed,PALIV_36-37_slide 1_scan1_234_1_slice1.bmp,1
+hed,PALIV_B_19_slide2_scan1_128_1_slice6.bmp,1
+hed,PALIV_24-25_slide 1_scan1_19_1_slice5.bmp,1
+hed,PALIV_B_Sample_33-34_glyc_scan1_388_1_slice7.bmp,1
+hed,PALIV_20-21_slide1_scan3_95_1_slice5.bmp,1
+hed,PALIV_B_Sample_31-32_scan3_382_1_slice7.bmp,1
+hed,PALIV_B_17.8_slide1_scan2_17_1_slice6.bmp,1
+hed,PALIV_B_Sample_26-27_glyc_scan1_297_1_slice5.bmp,1
+hed,PALIV_20-21_slide1_scan3_391_1_slice3.bmp,1
+hed,PALIV_B_19_slide2_scan1_304_1_slice6.bmp,1
+hed,PALIV_B_19.8_slide2_scan1_35_1_slice6.bmp,1
+hed,PALIV_B_Sample_31-32_scan2_107_1_slice5.bmp,1
+hed,PALIV_B_Sample_28-29_glyc_scan1_309_1_slice6.bmp,1
+hed,PALIV_24-25_slide 1_scan1_244_1_slice6.bmp,1
+hed,PALIV_27-28_glycerine_scan 2_131_1_slice1.bmp,1
+hed,PALIV_45-46_glycerine_slide 1_scan2_115_1_slice3.bmp,1
+hed,PALIV_B_19_slide2_scan1_389_1_slice6.bmp,1
+hed,PALIV_22-23_slide 1_scan4_394_1_slice2.bmp,1
+hed,PALIV_B_17.8_slide1_scan2_67_1_slice6.bmp,1
+hed,PALIV_22-23_slide 1_scan2_10_1_slice5.bmp,1
+hed,PALIV_B_Sample_26-27_glyc_scan2_279_1_slice4.bmp,1
+hed,PALIV_B_Sample_31-32_scan2_328_1_slice7.bmp,1
+hed,PALIV_B_19_slide2_scan1_6_1_slice6.bmp,1
+hed,PALIV_B_Sample_31-32_scan2_4_1_slice4.bmp,1
+hed,PALIV_27-28_slide 1_scan1_11_1_slice5.bmp,1
+hed,PALIV_B_19_slide2_scan1_236_1_slice6.bmp,1
+hed,PALIV_22-23_slide 1_scan4_279_1_slice3.bmp,1
+hed,PALIV_B_Sample_33-34_glyc_scan1_327_1_slice7.bmp,1
+hed,PALIV_B_17.8_slide1_scan2_447_1_slice5.bmp,1
+hed,PALIV_25-26_slide 1_scan1_316_1_slice3.bmp,1
+spo,PALIV_25-26_slide 1_scan1_76_1_slice3.bmp,2
+spo,PALIV_22-23_slide 1_scan4_37_1_slice4.bmp,2
+spo,PALIV_B_Sample_31-32_scan3_381_1_slice7.bmp,2
+spo,PALIV_B_17.8_slide1_scan2_227_1_slice4.bmp,2
+spo,PALIV_B_Sample_31-32_scan2_15_1_slice7.bmp,2
+spo,PALIV_20-21_slide1_scan3_680_1_slice3.bmp,2
+spo,PALIV_B_Sample_31-32_scan2_149_1_slice5.bmp,2
+spo,PALIV_B_Sample_31-32_scan3_378_1_slice7.bmp,2
+spo,PALIV_B_Sample_31-32_scan2_91_1_slice5.bmp,2
+spo,PALIV_24-25_slide 1_scan2_125_1_slice4.bmp,2
+spo,PALIV_B_Sample_31-32_scan2_254_1_slice7.bmp,2
+spo,PALIV_22-23_slide 1_scan2_21_1_slice6.bmp,2
+spo,PALIV_21-22_slide 1_scan1_363_1_slice6.bmp,2
+spo,PALIV_B_Sample_28-29_glyc_scan1_264_1_slice6.bmp,2
+spo,PALIV_B_19.8_slide2_scan1_394_1_slice4.bmp,2
+spo,PALIV_22-23_slide 1_scan2_373_1_slice3.bmp,2
+spo,PALIV_22-23_slide 1_scan4_327_1_slice2.bmp,2
+spo,PALIV_B_Sample_31-32_scan2_33_1_slice4.bmp,2
+spo,PALIV_22-23_slide 1_scan3_54_1_slice4.bmp,2
+spo,PALIV_24-25_slide 1_scan1_155_1_slice6.bmp,2
+spo,PALIV_B_Sample_26-27_glyc_scan3_5_1_slice3.bmp,2
+spo,PALIV_B_Sample_31-32_scan1_294_1_slice4.bmp,2
+spo,PALIV_B_Sample_34-35_glyc_scan2_344_1_slice2.bmp,2
+spo,PALIV_24-25_slide 1_scan2_337_1_slice4.bmp,2
+spo,PALIV_24-25_slide 1_scan2_190_1_slice4.bmp,2
+spo,PALIV_24-25_slide 1_scan1_348_1_slice6.bmp,2
+spo,PALIV_B_17.8_slide1_scan2_203_1_slice5.bmp,2
+spo,PALIV_B_Sample_33-34_glyc_scan1_193_1_slice4.bmp,2
+spo,PALIV_22-23_slide 1_scan4_110_1_slice2.bmp,2
+spo,PALIV_B_Sample_31-32_scan1_162_1_slice2.bmp,2
+spo,PALIV_B_Sample_33-34_glyc_scan1_75_1_slice5.bmp,2
+spo,PALIV_B_Sample_26-27_glyc_scan2_208_1_slice5.bmp,2
+spo,PALIV_B_Sample_33-34_glyc_scan1_241_1_slice4.bmp,2
+spo,PALIV_B_Sample_31-32_scan2_44_1_slice4.bmp,2
+spo,PALIV_22-23_slide 1_scan4_350_1_slice2.bmp,2
+spo,PALIV_45-46_glycerine_slide 1_scan1_209_1_slice3.bmp,2
+spo,PALIV_27-28_slide 1_scan1_37_1_slice7.bmp,2
+spo,PALIV_B_Sample_31-32_scan3_20_1_slice6.bmp,2
+spo,PALIV_27-28_slide 1_scan1_310_1_slice5.bmp,2
+spo,PALIV_B_19.8_slide2_scan1_140_1_slice4.bmp,2
+spo,PALIV_B_Sample_31-32_scan1_355_1_slice4.bmp,2
+spo,PALIV_20-21_slide1_scan3_548_1_slice4.bmp,2
+spo,PALIV_B_Sample_26-27_glyc_scan1_91_1_slice4.bmp,2
+spo,PALIV_B_19_slide2_scan1_332_1_slice6.bmp,2
+spo,PALIV_B_Sample_33-34_glyc_scan1_28_1_slice3.bmp,2
+cyp,PALIV_20-21_slide1_scan3_701_1_slice4.bmp,3
+cyp,PALIV_B_Sample_31-32_scan3_239_1_slice3.bmp,3
+cyp,PALIV_B_Sample_33-34_glyc_scan1_126_1_slice4.bmp,3
+cyp,PALIV_B_Sample_31-32_scan2_203_1_slice3.bmp,3
+cyp,PALIV_25-26_slide 1_scan2_62_1_slice7.bmp,3
+cyp,PALIV_B_Sample_32-33_glyc_scan1_55_1_slice3.bmp,3
+cyp,PALIV_22-23_slide 1_scan4_162_1_slice3.bmp,3
+cyp,PALIV_20-21_slide1_scan2_zstack_BMP_38_1_slice6.bmp,3
+cyp,PALIV_B_19_slide2_scan1_122_1_slice5.bmp,3
+cyp,PALIV_B_17.8_slide1_scan2_263_1_slice6.bmp,3
+cyp,PALIV_B_Sample_26-27_glyc_scan1_120_1_slice3.bmp,3
+cyp,PALIV_B_Sample_28-29_glyc_scan1_55_1_slice4.bmp,3
+cyp,PALIV_B_17.8_slide1_scan2_359_1_slice5.bmp,3
+cyp,PALIV_B_17.8_slide1_scan2_95_1_slice5.bmp,3
+cyp,PALIV_B_17.8_slide1_scan2_349_1_slice5.bmp,3
+cyp,PALIV_24-25_slide 1_scan1_209_1_slice6.bmp,3
+cyp,PALIV_B_17.8_slide1_scan2_36_1_slice5.bmp,3
+cyp,PALIV_21-22_slide 1_scan2_79_1_slice3.bmp,3
+cyp,PALIV_B_17.8_slide1_scan2_163_1_slice5.bmp,3
+cyp,PALIV_27-28_slide 1_scan1_10_1_slice5.bmp,3
+cyp,PALIV_B_19_slide2_scan1_25_2_slice6.bmp,3
+cyp,PALIV_24-25_slide 1_scan1_326_1_slice6.bmp,3
+cyp,PALIV_B_Sample_33-34_glyc_scan1_176_4_slice3.bmp,3
+cyp,PALIV_B_17.8_slide1_scan2_305_1_slice6.bmp,3
+cyp,PALIV_B_Sample_31-32_scan1_48_1_slice2.bmp,3
+cyp,PALIV_B_19.8_slide2_scan1_88_1_slice6.bmp,3
+cyp,PALIV_B_Sample_32-33_glyc_scan1_56_1_slice2.bmp,3
+cyp,PALIV_B_Sample_31-32_scan1_280_2_slice1.bmp,3
+cyp,PALIV_B_17.8_slide1_scan2_275_1_slice5.bmp,3
+cyp,PALIV_22-23_slide 1_scan3_217_1_slice4.bmp,3
+cyp,PALIV_B_Sample_33-34_glyc_scan1_346_1_slice8.bmp,3
+cyp,PALIV_20-21_slide1_scan3_239_1_slice4.bmp,3
+cyp,PALIV_B_Sample_32-33_glyc_scan1_96_1_slice4.bmp,3
+cyp,PALIV_B_Sample_32-33_glyc_scan1_85_1_slice1.bmp,3
+cyp,PALIV_B_Sample_33-34_glyc_scan1_176_1_slice4.bmp,3
+cyp,PALIV_B_17.8_slide1_scan2_90_1_slice6.bmp,3
+cyp,PALIV_B_19_slide2_scan1_219_1_slice6.bmp,3
+cyp,PALIV_B_Sample_31-32_scan1_23_1_slice4.bmp,3
+cyp,PALIV_20-21_slide1_scan3_626_1_slice3.bmp,3
+ind,PALIV_45-46_glycerine_slide 1_scan3_395_1_slice1.bmp,4
+ind,PALIV_24-25_slide 1_scan2_111_1_slice4.bmp,4
+ind,PALIV_36-37_slide 1_scan1_29_1_slice1.bmp,4
+ind,PALIV_24-25_slide 1_scan1_288_1_slice6.bmp,4
+ind,PALIV_B_17.8_slide1_scan2_18_1_slice6.bmp,4
+ind,PALIV_22-23_slide 1_scan4_399_1_slice2.bmp,4
+ind,PALIV_45-46_glycerine_slide 1_scan1_243_1_slice4.bmp,4
+ind,PALIV_24-25_slide 1_scan2_137_1_slice3.bmp,4
+ind,PALIV_24-25_slide 1_scan1_97_1_slice6.bmp,4
+ind,PALIV_22-23_slide 1_scan3_182_1_slice4.bmp,4
+ind,PALIV_22-23_slide 1_scan2_345_1_slice3.bmp,4
+ind,PALIV_25-26_slide 1_scan2_196_1_slice2.bmp,4
+ind,PALIV_B_Sample_28-29_glyc_scan1_251_1_slice6.bmp,4
+ind,PALIV_23-24_slide 1_scan1_343_1_slice1.bmp,4
+ind,PALIV_24-25_slide 1_scan1_273_1_slice6.bmp,4
+ind,PALIV_22-23_slide 1_scan2_88_1_slice5.bmp,4
+ind,PALIV_B_Sample_34-35_glyc_scan2_352_1_slice4.bmp,4
+ind,PALIV_B_Sample_31-32_scan3_306_1_slice6.bmp,4
+ind,PALIV_21-22_slide 1_scan2_333_1_slice5.bmp,4
+ind,PALIV_24-25_slide 1_scan1_14_1_slice5.bmp,4
+ind,PALIV_45-46_glycerine_slide 1_scan1_310_1_slice3.bmp,4
+ind,PALIV_B_Sample_26-27_glyc_scan3_245_1_slice4.bmp,4
+ind,PALIV_B_Sample_34-35_glyc_scan2_5_1_slice1.bmp,4
+ind,PALIV_B_Sample_31-32_scan1_207_1_slice3.bmp,4
+ind,PALIV_24-25_slide 1_scan2_127_1_slice4.bmp,4
+ind,PALIV_23-24_slide 1_scan1_24_1_slice3.bmp,4
+ind,PALIV_B_17.8_slide1_scan2_405_1_slice5.bmp,4
+ind,PALIV_20-21_slide1_scan3_93_1_slice4.bmp,4
+ind,PALIV_20-21_slide1_scan3_153_2_slice4.bmp,4
+ind,PALIV_22-23_slide 1_scan3_195_1_slice3.bmp,4
+ind,PALIV_B_Sample_31-32_scan1_335_1_slice5.bmp,4
+ind,PALIV_22-23_slide 1_scan4_107_1_slice2.bmp,4
+ind,PALIV_24-25_slide 1_scan2_114_1_slice4.bmp,4
+ind,PALIV_22-23_slide 1_scan2_274_1_slice3.bmp,4
+ind,PALIV_B_19_slide2_scan1_180_1_slice6.bmp,4
+ind,PALIV_22-23_slide 1_scan4_329_1_slice1.bmp,4
+ind,PALIV_B_Sample_26-27_glyc_scan3_139_1_slice5.bmp,4
+ind,PALIV_45-46_glycerine_slide 1_scan3_91_1_slice5.bmp,4
+ind,PALIV_45-46_glycerine_slide 1_scan3_167_1_slice1.bmp,4
+ind,PALIV_B_Sample_26-27_glyc_scan1_133_1_slice4.bmp,4
+ind,PALIV_B_Sample_34-35_glyc_scan2_21_1_slice2.bmp,4
+ind,PALIV_24-25_slide 1_scan1_331_1_slice6.bmp,4
+ind,PALIV_B_Sample_26-27_glyc_scan3_203_1_slice4.bmp,4
+ind,PALIV_24-25_slide 1_scan1_150_1_slice6.bmp,4
+ind,PALIV_45-46_glycerine_slide 1_scan2_169_1_slice3.bmp,4
+ind,PALIV_B_Sample_31-32_scan1_25_1_slice3.bmp,4
+ind,PALIV_B_Sample_31-32_scan2_127_1_slice4.bmp,4
+ind,PALIV_24-25_slide 1_scan1_234_1_slice6.bmp,4
+ind,PALIV_22-23_slide 1_scan2_336_1_slice3.bmp,4
+ind,PALIV_24-25_slide 1_scan2_152_1_slice4.bmp,4
+ind,PALIV_22-23_slide 1_scan3_174_1_slice3.bmp,4
+ind,PALIV_B_17.8_slide1_scan2_440_1_slice5.bmp,4
+ind,PALIV_36-37_slide 1_scan1_34_1_slice1.bmp,4
+ind,PALIV_B_17.8_slide1_scan2_238_1_slice5.bmp,4
+ind,PALIV_24-25_slide 1_scan2_301_1_slice4.bmp,4
+ind,PALIV_B_Sample_28-29_glyc_scan1_13_1_slice3.bmp,4
+ind,PALIV_45-46_glycerine_slide 1_scan1_345_1_slice5.bmp,4
+ind,PALIV_45-46_glycerine_slide 1_scan2_329_1_slice1.bmp,4
+ind,PALIV_27-28_slide 1_scan1_236_1_slice7.bmp,4
+ind,PALIV_25-26_slide 1_scan2_184_1_slice6.bmp,4
+ind,PALIV_B_Sample_32-33_glyc_scan1_127_1_slice4.bmp,4
+ind,PALIV_24-25_slide 1_scan1_72_1_slice6.bmp,4
+mol,PALIV_27-28_glycerine_scan 2_230_2_slice5.bmp,5
+mol,PALIV_B_17.8_slide1_scan2_399_1_slice5.bmp,5
+mol,PALIV_45-46_glycerine_slide 1_scan2_156_1_slice0.bmp,5
+mol,PALIV_B_Sample_32-33_glyc_scan1_32_1_slice0.bmp,5
+mol,PALIV_B_17.8_slide1_scan2_89_1_slice5.bmp,5
+mol,PALIV_45-46_glycerine_slide 1_scan1_325_1_slice2.bmp,5
+mol,PALIV_B_Sample_31-32_scan1_65_1_slice4.bmp,5
+mol,PALIV_21-22_slide 1_scan1_320_1_slice6.bmp,5
+mol,PALIV_27-28_slide 1_scan1_129_1_slice7.bmp,5
+mol,PALIV_B_Sample_31-32_scan1_386_1_slice6.bmp,5
+mol,PALIV_25-26_slide 1_scan1_105_1_slice6.bmp,5
+mol,PALIV_B_Sample_31-32_scan2_45_1_slice4.bmp,5
+mol,PALIV_B_17.8_slide1_scan2_407_1_slice5.bmp,5
+mol,PALIV_B_19_slide2_scan1_116_1_slice5.bmp,5
+mol,PALIV_B_Sample_34-35_glyc_scan2_285_1_slice0.bmp,5
+mol,PALIV_B_19_slide2_scan1_317_1_slice6.bmp,5
+mol,PALIV_B_Sample_32-33_glyc_scan1_177_1_slice5.bmp,5
+mol,PALIV_B_Sample_28-29_glyc_scan1_192_1_slice5.bmp,5
+mol,PALIV_27-28_glycerine_scan 2_230_1_slice5.bmp,5
+mol,PALIV_25-26_slide 1_scan2_114_1_slice3.bmp,5
+mol,PALIV_21-22_slide 1_scan2_124_1_slice4.bmp,5
+mol,PALIV_21-22_slide 1_scan1_377_1_slice6.bmp,5
+mol,PALIV_24-25_slide 1_scan2_165_1_slice4.bmp,5
+mol,PALIV_B_Sample_34-35_glyc_scan1_314_1_slice4.bmp,5
+mol,PALIV_B_Sample_31-32_scan1_113_1_slice3.bmp,5
+mol,PALIV_B_Sample_32-33_glyc_scan1_177_2_slice6.bmp,5
+mol,PALIV_B_17.8_slide1_scan2_188_1_slice5.bmp,5
+mol,PALIV_B_19_slide2_scan1_255_1_slice6.bmp,5
+mol,PALIV_21-22_slide 1_scan2_56_1_slice5.bmp,5
+mol,PALIV_B_Sample_32-33_glyc_scan1_157_1_slice3.bmp,5
+mol,PALIV_24-25_slide 1_scan2_382_1_slice4.bmp,5
+mol,PALIV_27-28_slide 1_scan1_12_1_slice6.bmp,5
+mol,PALIV_B_Sample_31-32_scan1_359_1_slice4.bmp,5
+mol,PALIV_27-28_glycerine_scan 2_230_3_slice5.bmp,5
+mol,PALIV_B_17.8_slide1_scan2_444_1_slice5.bmp,5
+pod,PALIV_27-28_glycerine_scan 2_275_1_slice4.bmp,6
+pod,PALIV_B_17.8_slide1_scan2_220_1_slice6.bmp,6
+pod,PALIV_B_Sample_32-33_glyc_scan1_149_1_slice5.bmp,6
+pod,PALIV_24-25_slide 1_scan2_99_1_slice3.bmp,6
+pod,PALIV_22-23_slide 1_scan3_182_1_slice4.bmp,6
+pod,PALIV_25-26_slide 1_scan2_182_1_slice7.bmp,6
+pod,PALIV_36-37_slide 1_scan1_284_1_slice2.bmp,6
+pod,PALIV_22-23_slide 1_scan4_257_1_slice1.bmp,6
+pod,PALIV_B_Sample_31-32_scan3_395_1_slice5.bmp,6
+amb,PALIV_B_19.8_slide2_scan1_276_1_slice6.bmp,7
+amb,PALIV_B_17.8_slide1_scan2_388_2_slice6.bmp,7
+amb,PALIV_B_Sample_28-29_glyc_scan1_29_1_slice4.bmp,7
+amb,PALIV_B_Sample_26-27_glyc_scan2_389_1_slice4.bmp,7
+amb,PALIV_24-25_slide 1_scan1_149_1_slice6.bmp,7
+amb,PALIV_27-28_glycerine_scan 2_232_1_slice4.bmp,7
+amb,PALIV_B_17.8_slide1_scan2_426_1_slice6.bmp,7
+amb,PALIV_B_17.8_slide1_scan2_388_1_slice6.bmp,7
+amb,PALIV_B_19.8_slide2_scan1_257_1_slice6.bmp,7
+amb,PALIV_B_Sample_33-34_glyc_scan1_123_1_slice5.bmp,7
+amb,PALIV_B_19_slide2_scan1_271_1_slice6.bmp,7
+amb,PALIV_B_Sample_31-32_scan3_338_1_slice7.bmp,7
+amb,PALIV_22-23_slide 1_scan3_180_1_slice4.bmp,7
+hup,PALIV_B_19_slide2_scan1_352_2_slice6.bmp,8
+hup,PALIV_22-23_slide 1_scan2_79_1_slice4.bmp,8
+hup,PALIV_45-46_glycerine_slide 1_scan3_89_1_slice3.bmp,8
+hup,PALIV_22-23_slide 1_scan4_217_1_slice1.bmp,8
+hup,PALIV_20-21_slide1_scan3_676_1_slice3.bmp,8
+hup,PALIV_B_17.8_slide1_scan2_280_1_slice5.bmp,8
+hup,PALIV_B_Sample_31-32_scan2_118_1_slice3.bmp,8
+hup,PALIV_B_19_slide2_scan1_340_1_slice6.bmp,8
+hup,PALIV_B_19.8_slide2_scan1_344_1_slice6.bmp,8
+hup,PALIV_B_19_slide2_scan1_336_1_slice6.bmp,8
+hup,PALIV_24-25_slide 1_scan1_97_1_slice6.bmp,8
+hup,PALIV_25-26_slide 1_scan2_353_1_slice3.bmp,8
+hup,PALIV_B_Sample_31-32_scan3_372_1_slice6.bmp,8
+hup,PALIV_B_Sample_33-34_glyc_scan1_289_1_slice7.bmp,8
+hup,PALIV_22-23_slide 1_scan4_235_1_slice2.bmp,8
+hup,PALIV_B_Sample_28-29_glyc_scan1_183_1_slice5.bmp,8
+hup,PALIV_B_19.8_slide2_scan1_358_1_slice4.bmp,8
+hup,PALIV_B_19.8_slide2_scan1_184_1_slice6.bmp,8
+hup,PALIV_B_17.8_slide1_scan2_263_1_slice6.bmp,8
+hup,PALIV_B_Sample_28-29_glyc_scan1_26_1_slice1.bmp,8
+hup,PALIV_B_19_slide2_scan1_269_1_slice6.bmp,8
+hup,PALIV_B_19_slide2_scan1_183_1_slice6.bmp,8
+hup,PALIV_B_17.8_slide1_scan2_94_1_slice6.bmp,8
+hup,PALIV_B_17.8_slide1_scan2_422_1_slice6.bmp,8
+hup,PALIV_B_19.8_slide2_scan1_21_1_slice5.bmp,8
+hup,PALIV_B_19_slide2_scan1_324_1_slice6.bmp,8
+hup,PALIV_22-23_slide 1_scan2_293_1_slice3.bmp,8
+hup,PALIV_B_17.8_slide1_scan2_148_1_slice5.bmp,8
+hup,PALIV_B_Sample_33-34_glyc_scan1_336_1_slice7.bmp,8
+hup,PALIV_B_17.8_slide1_scan2_180_1_slice5.bmp,8
+hup,PALIV_B_19.8_slide2_scan1_200_1_slice4.bmp,8
+hup,PALIV_B_Sample_33-34_glyc_scan1_192_1_slice4.bmp,8
+hup,PALIV_45-46_glycerine_slide 1_scan3_51_1_slice4.bmp,8
+hup,PALIV_B_Sample_33-34_glyc_scan1_225_1_slice5.bmp,8
+hup,PALIV_22-23_slide 1_scan3_28_1_slice4.bmp,8
+hup,PALIV_45-46_glycerine_slide 1_scan1_122_1_slice1.bmp,8
+hup,PALIV_B_19_slide2_scan1_352_1_slice6.bmp,8
+hup,PALIV_B_19_slide2_scan1_38_1_slice5.bmp,8
+hup,PALIV_22-23_slide 1_scan3_270_1_slice4.bmp,8
+hup,PALIV_B_17.8_slide1_scan2_160_1_slice5.bmp,8
+hup,PALIV_B_Sample_33-34_glyc_scan1_137_1_slice5.bmp,8
+hup,PALIV_B_17.8_slide1_scan2_114_1_slice5.bmp,8
+hup,PALIV_B_19.8_slide2_scan1_337_1_slice4.bmp,8
+hup,PALIV_B_Sample_31-32_scan1_256_2_slice5.bmp,8
+hup,PALIV_B_Sample_33-34_glyc_scan1_345_1_slice6.bmp,8
+hup,PALIV_25-26_slide 1_scan2_217_1_slice6.bmp,8
+hup,PALIV_24-25_slide 1_scan1_68_1_slice5.bmp,8
+hup,PALIV_B_17.8_slide1_scan2_26_1_slice5.bmp,8
+hup,PALIV_B_19.8_slide2_scan1_195_1_slice5.bmp,8
+hup,PALIV_27-28_glycerine_scan 2_292_1_slice7.bmp,8
+hup,PALIV_22-23_slide 1_scan4_275_1_slice2.bmp,8
+hup,PALIV_22-23_slide 1_scan3_73_1_slice4.bmp,8
+hup,PALIV_B_Sample_31-32_scan2_55_1_slice6.bmp,8
+hup,PALIV_22-23_slide 1_scan4_62_1_slice2.bmp,8
+hup,PALIV_45-46_glycerine_slide 1_scan3_348_1_slice0.bmp,8
+hup,PALIV_B_19_slide2_scan1_54_1_slice6.bmp,8
+hup,PALIV_22-23_slide 1_scan2_379_1_slice3.bmp,8
+hup,PALIV_B_19.8_slide2_scan1_342_1_slice6.bmp,8
+hup,PALIV_B_Sample_26-27_glyc_scan2_205_1_slice4.bmp,8
+hup,PALIV_22-23_slide 1_scan4_260_1_slice1.bmp,8
+hup,PALIV_B_19.8_slide2_scan1_318_1_slice5.bmp,8
+hup,PALIV_20-21_slide1_scan3_532_1_slice3.bmp,8
+hup,PALIV_B_19.8_slide2_scan1_341_1_slice6.bmp,8
+hup,PALIV_B_19.8_slide2_scan1_298_1_slice6.bmp,8
+hup,PALIV_B_Sample_33-34_glyc_scan1_346_1_slice8.bmp,8
+hup,PALIV_B_17.8_slide1_scan2_307_1_slice5.bmp,8
+hup,PALIV_B_17.8_slide1_scan2_106_1_slice6.bmp,8
+hup,PALIV_B_Sample_26-27_glyc_scan2_131_1_slice1.bmp,8
+hup,PALIV_27-28_glycerine_scan 2_306_1_slice8.bmp,8
+hup,PALIV_25-26_slide 1_scan2_80_1_slice1.bmp,8
+hup,PALIV_B_17.8_slide1_scan2_406_1_slice4.bmp,8
+hup,PALIV_B_19.8_slide2_scan1_222_1_slice6.bmp,8
+hup,PALIV_B_19_slide2_scan1_88_1_slice5.bmp,8
+hup,PALIV_B_Sample_26-27_glyc_scan3_130_1_slice4.bmp,8
+hup,PALIV_25-26_slide 1_scan1_143_1_slice7.bmp,8
+hup,PALIV_B_Sample_31-32_scan1_75_1_slice2.bmp,8
+hup,PALIV_B_Sample_26-27_glyc_scan3_333_1_slice3.bmp,8
+hup,PALIV_B_Sample_33-34_glyc_scan1_182_1_slice0.bmp,8
+hup,PALIV_B_Sample_31-32_scan3_331_1_slice6.bmp,8
+hup,PALIV_21-22_slide 1_scan1_107_1_slice5.bmp,8
+hup,PALIV_B_17.8_slide1_scan2_82_2_slice4.bmp,8
+hup,PALIV_24-25_slide 1_scan2_3_1_slice4.bmp,8
+hup,PALIV_B_Sample_33-34_glyc_scan1_35_1_slice4.bmp,8
+iso,PALIV_B_Sample_31-32_scan2_175_1_slice5.bmp,9
+iso,PALIV_B_17.8_slide1_scan2_186_2_slice6.bmp,9
+iso,PALIV_B_Sample_31-32_scan1_336_1_slice5.bmp,9
+iso,PALIV_B_Sample_31-32_scan2_162_1_slice2.bmp,9
+iso,PALIV_B_Sample_34-35_glyc_scan1_222_1_slice3.bmp,9
+iso,PALIV_27-28_glycerine_scan 2_154_1_slice0.bmp,9
+iso,PALIV_B_Sample_31-32_scan2_346_1_slice8.bmp,9
+iso,PALIV_B_Sample_26-27_glyc_scan1_151_1_slice2.bmp,9
+iso,PALIV_24-25_slide 1_scan2_113_1_slice4.bmp,9
+iso,PALIV_36-37_slide 1_scan1_204_1_slice1.bmp,9
+iso,PALIV_B_Sample_31-32_scan1_65_1_slice4.bmp,9
+iso,PALIV_22-23_slide 1_scan4_312_1_slice2.bmp,9
+iso,PALIV_B_Sample_31-32_scan3_354_1_slice6.bmp,9
+iso,PALIV_B_Sample_33-34_glyc_scan1_196_2_slice1.bmp,9
+iso,PALIV_B_Sample_26-27_glyc_scan3_156_1_slice3.bmp,9
+iso,PALIV_36-37_slide 1_scan1_107_1_slice3.bmp,9
+iso,PALIV_B_Sample_28-29_glyc_scan1_78_1_slice3.bmp,9
+iso,PALIV_24-25_slide 1_scan1_278_4_slice6.bmp,9
+iso,PALIV_B_Sample_31-32_scan2_85_1_slice4.bmp,9
+iso,PALIV_B_19_slide2_scan1_376_1_slice6.bmp,9
+iso,PALIV_22-23_slide 1_scan2_221_1_slice5.bmp,9
+iso,PALIV_B_Sample_26-27_glyc_scan3_377_1_slice6.bmp,9
+iso,PALIV_B_Sample_33-34_glyc_scan1_357_1_slice6.bmp,9
+iso,PALIV_21-22_slide 1_scan1_80_1_slice4.bmp,9
+iso,PALIV_B_19_slide2_scan1_135_1_slice6.bmp,9
+iso,PALIV_27-28_glycerine_scan 2_239_1_slice1.bmp,9
+iso,PALIV_27-28_glycerine_scan 2_242_2_slice0.bmp,9
+iso,PALIV_24-25_slide 1_scan1_319_1_slice6.bmp,9
+iso,PALIV_27-28_glycerine_scan 2_298_1_slice6.bmp,9
+iso,PALIV_B_Sample_32-33_glyc_scan1_107_1_slice3.bmp,9
+iso,PALIV_B_Sample_31-32_scan1_375_3_slice6.bmp,9
+iso,PALIV_B_Sample_31-32_scan2_154_1_slice3.bmp,9
+iso,PALIV_B_Sample_31-32_scan1_88_1_slice3.bmp,9
+iso,PALIV_B_Sample_33-34_glyc_scan1_62_1_slice5.bmp,9
+iso,PALIV_24-25_slide 1_scan1_26_1_slice5.bmp,9
+iso,PALIV_B_Sample_33-34_glyc_scan1_373_1_slice6.bmp,9
+iso,PALIV_23-24_slide 1_scan1_124_1_slice3.bmp,9
+iso,PALIV_B_Sample_31-32_scan2_240_1_slice3.bmp,9
+iso,PALIV_B_Sample_28-29_glyc_scan1_340_1_slice2.bmp,9
+iso,PALIV_22-23_slide 1_scan2_282_1_slice3.bmp,9
+iso,PALIV_B_17.8_slide1_scan2_290_1_slice5.bmp,9
+iso,PALIV_B_Sample_31-32_scan2_117_1_slice3.bmp,9
+iso,PALIV_27-28_slide 1_scan1_380_1_slice3.bmp,9
+iso,PALIV_25-26_slide 1_scan1_288_1_slice4.bmp,9
+iso,PALIV_B_Sample_33-34_glyc_scan1_219_1_slice4.bmp,9
+iso,PALIV_22-23_slide 1_scan4_232_1_slice2.bmp,9
+iso,PALIV_20-21_slide1_scan3_713_1_slice3.bmp,9
+iso,PALIV_27-28_slide 1_scan1_55_2_slice6.bmp,9
+iso,PALIV_B_Sample_33-34_glyc_scan1_135_1_slice3.bmp,9
+iso,PALIV_22-23_slide 1_scan3_312_1_slice3.bmp,9
+iso,PALIV_B_19_slide2_scan1_280_1_slice6.bmp,9
+iso,PALIV_22-23_slide 1_scan2_78_1_slice4.bmp,9
+iso,PALIV_36-37_slide 1_scan1_384_1_slice2.bmp,9
+iso,PALIV_B_Sample_33-34_glyc_scan1_62_2_slice5.bmp,9
+iso,PALIV_B_Sample_28-29_glyc_scan1_335_1_slice1.bmp,9
+iso,PALIV_B_19.8_slide2_scan1_238_1_slice5.bmp,9
+iso,PALIV_B_Sample_33-34_glyc_scan1_255_1_slice5.bmp,9
+iso,PALIV_21-22_slide 1_scan2_124_1_slice4.bmp,9
+iso,PALIV_24-25_slide 1_scan1_220_1_slice6.bmp,9
+iso,PALIV_B_17.8_slide1_scan2_186_1_slice6.bmp,9
+iso,PALIV_36-37_slide 1_scan1_309_1_slice5.bmp,9
+iso,PALIV_B_Sample_33-34_glyc_scan1_233_1_slice5.bmp,9
+iso,PALIV_B_Sample_31-32_scan3_32_1_slice4.bmp,9
+iso,PALIV_B_Sample_32-33_glyc_scan1_185_1_slice5.bmp,9
+iso,PALIV_B_Sample_32-33_glyc_scan1_112_2_slice4.bmp,9
+iso,PALIV_27-28_glycerine_scan 2_122_2_slice0.bmp,9
+iso,PALIV_B_17.8_slide1_scan2_357_1_slice5.bmp,9
+iso,PALIV_36-37_slide 1_scan1_241_1_slice1.bmp,9
+iso,PALIV_24-25_slide 1_scan2_168_1_slice4.bmp,9
+iso,PALIV_B_17.8_slide1_scan2_305_1_slice6.bmp,9
+iso,PALIV_24-25_slide 1_scan1_360_1_slice6.bmp,9
+iso,PALIV_B_Sample_33-34_glyc_scan1_112_1_slice2.bmp,9
+iso,PALIV_24-25_slide 1_scan1_327_1_slice6.bmp,9
+iso,PALIV_B_17.8_slide1_scan2_424_1_slice6.bmp,9
+iso,PALIV_20-21_slide1_scan3_532_1_slice3.bmp,9
+iso,PALIV_B_Sample_26-27_glyc_scan2_117_4_slice2.bmp,9
+iso,PALIV_23-24_slide 1_scan1_273_1_slice2.bmp,9
+iso,PALIV_B_Sample_31-32_scan1_103_1_slice5.bmp,9
+iso,PALIV_22-23_slide 1_scan2_160_1_slice4.bmp,9
+iso,PALIV_B_Sample_34-35_glyc_scan2_153_1_slice0.bmp,9
+iso,PALIV_B_Sample_33-34_glyc_scan1_297_1_slice5.bmp,9
+iso,PALIV_B_Sample_33-34_glyc_scan1_251_1_slice5.bmp,9
+iso,PALIV_22-23_slide 1_scan3_318_1_slice2.bmp,9
+iso,PALIV_23-24_slide 1_scan1_237_1_slice3.bmp,9
+iso,PALIV_27-28_glycerine_scan 2_247_1_slice4.bmp,9
+iso,PALIV_27-28_slide 1_scan1_368_1_slice6.bmp,9
+iso,PALIV_B_Sample_31-32_scan2_171_1_slice4.bmp,9
+iso,PALIV_B_Sample_31-32_scan1_57_1_slice4.bmp,9
+iso,PALIV_B_Sample_26-27_glyc_scan3_111_1_slice1.bmp,9
+iso,PALIV_B_Sample_31-32_scan2_290_1_slice6.bmp,9
+iso,PALIV_B_Sample_33-34_glyc_scan1_211_1_slice3.bmp,9
+iso,PALIV_27-28_slide 1_scan1_47_1_slice7.bmp,9
+iso,PALIV_36-37_slide 1_scan1_3_1_slice1.bmp,9
+iso,PALIV_22-23_slide 1_scan4_221_1_slice1.bmp,9
+iso,PALIV_21-22_slide 1_scan2_217_1_slice5.bmp,9
+mel,PALIV_45-46_glycerine_slide 1_scan2_102_1_slice5.bmp,10
+mel,PALIV_24-25_slide 1_scan1_392_1_slice6.bmp,10
+mel,PALIV_45-46_glycerine_slide 1_scan2_130_1_slice4.bmp,10
+mel,PALIV_27-28_glycerine_scan 2_191_1_slice3.bmp,10
+mel,PALIV_B_Sample_32-33_glyc_scan1_162_1_slice4.bmp,10
+mel,PALIV_B_Sample_26-27_glyc_scan2_40_1_slice3.bmp,10
+mel,PALIV_B_Sample_26-27_glyc_scan1_159_1_slice3.bmp,10
+poa,PALIV_20-21_slide1_scan3_535_1_slice3.bmp,11
+poa,PALIV_B_Sample_31-32_scan1_197_1_slice3.bmp,11
+poa,PALIV_B_17.8_slide1_scan2_276_1_slice5.bmp,11
+poa,PALIV_27-28_glycerine_scan 2_237_1_slice5.bmp,11
+poa,PALIV_B_19_slide2_scan1_173_1_slice6.bmp,11
+poa,PALIV_B_Sample_26-27_glyc_scan1_338_1_slice7.bmp,11
+poa,PALIV_24-25_slide 1_scan2_391_1_slice4.bmp,11
+poa,PALIV_B_Sample_34-35_glyc_scan1_370_1_slice5.bmp,11
+poa,PALIV_B_17.8_slide1_scan2_129_1_slice6.bmp,11
+poa,PALIV_B_19_slide2_scan1_364_1_slice6.bmp,11
+poa,PALIV_B_Sample_26-27_glyc_scan2_326_1_slice2.bmp,11
+poa,PALIV_25-26_slide 1_scan1_258_1_slice7.bmp,11
+poa,PALIV_B_17.8_slide1_scan2_442_2_slice5.bmp,11
+poa,PALIV_25-26_slide 1_scan1_243_1_slice2.bmp,11
+poa,PALIV_B_19_slide2_scan1_95_1_slice6.bmp,11
+poa,PALIV_B_19.8_slide2_scan1_16_1_slice6.bmp,11
+poa,PALIV_B_Sample_34-35_glyc_scan2_32_1_slice1.bmp,11
+poa,PALIV_B_Sample_31-32_scan1_282_1_slice1.bmp,11
+poa,PALIV_B_Sample_31-32_scan1_58_3_slice4.bmp,11
+poa,PALIV_24-25_slide 1_scan1_165_1_slice6.bmp,11
+poa,PALIV_B_19_slide2_scan1_193_1_slice6.bmp,11
+poa,PALIV_23-24_slide 1_scan1_13_1_slice3.bmp,11
+poa,PALIV_B_Sample_26-27_glyc_scan2_315_1_slice4.bmp,11
+poa,PALIV_24-25_slide 1_scan1_16_1_slice6.bmp,11
+poa,PALIV_22-23_slide 1_scan4_132_1_slice2.bmp,11
+poa,PALIV_B_Sample_31-32_scan1_226_1_slice4.bmp,11
+poa,PALIV_B_Sample_31-32_scan1_392_1_slice5.bmp,11
+poa,PALIV_B_19_slide2_scan1_326_1_slice6.bmp,11
+poa,PALIV_B_Sample_32-33_glyc_scan1_90_1_slice4.bmp,11
+poa,PALIV_24-25_slide 1_scan2_38_2_slice4.bmp,11
+poa,PALIV_22-23_slide 1_scan3_261_1_slice4.bmp,11
+poa,PALIV_27-28_slide 1_scan1_46_1_slice6.bmp,11
+poa,PALIV_27-28_glycerine_scan 2_173_1_slice1.bmp,11
+poa,PALIV_21-22_slide 1_scan2_125_1_slice4.bmp,11
+poa,PALIV_22-23_slide 1_scan2_166_1_slice4.bmp,11
+poa,PALIV_B_Sample_32-33_glyc_scan1_98_1_slice5.bmp,11
+poa,PALIV_20-21_slide1_scan3_455_1_slice4.bmp,11
+poa,PALIV_B_19.8_slide2_scan1_188_1_slice6.bmp,11
+poa,PALIV_24-25_slide 1_scan2_164_1_slice4.bmp,11
+poa,PALIV_B_Sample_31-32_scan1_58_2_slice4.bmp,11
+poa,PALIV_B_19_slide2_scan1_290_1_slice6.bmp,11
+poa,PALIV_22-23_slide 1_scan4_177_1_slice2.bmp,11
+poa,PALIV_B_19_slide2_scan1_119_1_slice5.bmp,11
+poa,PALIV_B_19.8_slide2_scan1_41_1_slice5.bmp,11
+poa,PALIV_22-23_slide 1_scan2_398_1_slice2.bmp,11
+poa,PALIV_22-23_slide 1_scan4_396_1_slice2.bmp,11
+poa,PALIV_22-23_slide 1_scan4_314_1_slice2.bmp,11
+poa,PALIV_B_19_slide2_scan1_35_1_slice6.bmp,11
+poa,PALIV_B_Sample_32-33_glyc_scan1_255_1_slice5.bmp,11
+poa,PALIV_24-25_slide 1_scan2_30_1_slice4.bmp,11
+poa,PALIV_27-28_glycerine_scan 2_304_1_slice8.bmp,11
+poa,PALIV_B_17.8_slide1_scan2_364_1_slice5.bmp,11
+poa,PALIV_B_Sample_31-32_scan1_375_1_slice6.bmp,11
+poa,PALIV_25-26_slide 1_scan2_270_1_slice4.bmp,11
+poa,PALIV_B_Sample_31-32_scan2_129_1_slice5.bmp,11
+poa,PALIV_25-26_slide 1_scan1_183_2_slice7.bmp,11
+poa,PALIV_B_Sample_33-34_glyc_scan1_275_4_slice3.bmp,11
+poa,PALIV_36-37_slide 1_scan1_363_1_slice1.bmp,11
+poa,PALIV_24-25_slide 1_scan2_129_1_slice4.bmp,11
+poa,PALIV_24-25_slide 1_scan2_283_1_slice4.bmp,11
+poa,PALIV_22-23_slide 1_scan3_401_1_slice2.bmp,11
+poa,PALIV_24-25_slide 1_scan1_147_1_slice6.bmp,11
+poa,PALIV_25-26_slide 1_scan2_205_1_slice2.bmp,11
+poa,PALIV_B_17.8_slide1_scan2_66_1_slice6.bmp,11
+poa,PALIV_24-25_slide 1_scan2_109_1_slice4.bmp,11
+poa,PALIV_B_Sample_31-32_scan1_165_1_slice3.bmp,11
+poa,PALIV_24-25_slide 1_scan1_54_1_slice6.bmp,11
+poa,PALIV_22-23_slide 1_scan2_114_1_slice4.bmp,11
+poa,PALIV_27-28_glycerine_scan 2_319_1_slice6.bmp,11
+poa,PALIV_21-22_slide 1_scan2_345_1_slice6.bmp,11
+poa,PALIV_22-23_slide 1_scan3_140_1_slice4.bmp,11
+poa,PALIV_B_Sample_33-34_glyc_scan1_391_1_slice7.bmp,11
+poa,PALIV_22-23_slide 1_scan4_316_1_slice2.bmp,11
+poa,PALIV_25-26_slide 1_scan2_389_1_slice5.bmp,11
+poa,PALIV_27-28_glycerine_scan 2_106_3_slice0.bmp,11
+poa,PALIV_22-23_slide 1_scan4_358_1_slice2.bmp,11
+poa,PALIV_21-22_slide 1_scan2_231_1_slice5.bmp,11
+poa,PALIV_27-28_glycerine_scan 2_169_1_slice2.bmp,11
+poa,PALIV_B_Sample_34-35_glyc_scan3_187_1_slice2.bmp,11
+poa,PALIV_B_Sample_32-33_glyc_scan1_289_1_slice3.bmp,11
+poa,PALIV_25-26_slide 1_scan2_281_2_slice1.bmp,11
+poa,PALIV_21-22_slide 1_scan1_73_1_slice4.bmp,11
+poa,PALIV_25-26_slide 1_scan1_49_1_slice4.bmp,11
+poa,PALIV_24-25_slide 1_scan2_4_1_slice4.bmp,11
+poa,PALIV_25-26_slide 1_scan2_297_1_slice6.bmp,11
+poa,PALIV_B_Sample_33-34_glyc_scan1_176_1_slice4.bmp,11
+poa,PALIV_B_Sample_32-33_glyc_scan1_148_1_slice5.bmp,11
+poa,PALIV_B_Sample_31-32_scan1_177_1_slice5.bmp,11
+poa,PALIV_27-28_slide 1_scan1_247_1_slice7.bmp,11
+poa,PALIV_B_Sample_34-35_glyc_scan1_74_1_slice3.bmp,11
+poa,PALIV_22-23_slide 1_scan2_118_1_slice4.bmp,11
+poa,PALIV_24-25_slide 1_scan2_78_1_slice4.bmp,11
+poa,PALIV_25-26_slide 1_scan1_237_1_slice3.bmp,11
+poa,PALIV_25-26_slide 1_scan2_77_1_slice2.bmp,11
+poa,PALIV_27-28_slide 1_scan1_50_2_slice5.bmp,11
+poa,PALIV_B_Sample_26-27_glyc_scan1_91_1_slice3.bmp,11
+poa,PALIV_B_Sample_34-35_glyc_scan1_312_1_slice4.bmp,11
+poa,PALIV_24-25_slide 1_scan2_284_1_slice4.bmp,11
+poa,PALIV_23-24_slide 1_scan1_356_1_slice2.bmp,11
+poa,PALIV_B_Sample_31-32_scan3_22_1_slice4.bmp,11
+poa,PALIV_B_Sample_26-27_glyc_scan2_235_1_slice4.bmp,11
+poa,PALIV_B_Sample_33-34_glyc_scan1_307_1_slice8.bmp,11
+poa,PALIV_25-26_slide 1_scan2_184_1_slice6.bmp,11
+poa,PALIV_20-21_slide1_scan3_86_1_slice4.bmp,11
+poa,PALIV_B_Sample_34-35_glyc_scan3_244_1_slice3.bmp,11
+val,PALIV_24-25_slide 1_scan2_263_1_slice4.bmp,12
+val,PALIV_B_17.8_slide1_scan2_409_1_slice5.bmp,12
+val,PALIV_22-23_slide 1_scan3_179_1_slice4.bmp,12
+val,PALIV_B_19_slide2_scan1_381_1_slice6.bmp,12
+val,PALIV_B_17.8_slide1_scan2_351_1_slice6.bmp,12
+val,PALIV_B_Sample_34-35_glyc_scan3_151_1_slice1.bmp,12
+val,PALIV_45-46_glycerine_slide 1_scan3_172_1_slice5.bmp,12
+val,PALIV_27-28_glycerine_scan 2_198_1_slice2.bmp,12
+val,PALIV_27-28_glycerine_scan 2_186_1_slice0.bmp,12
+val,PALIV_B_17.8_slide1_scan2_409_3_slice6.bmp,12
+val,PALIV_B_17.8_slide1_scan2_409_2_slice6.bmp,12
+val,PALIV_25-26_slide 1_scan1_83_1_slice2.bmp,12
+myr,PALIV_36-37_slide 1_scan1_275_1_slice4.bmp,13
+myr,PALIV_B_Sample_33-34_glyc_scan1_21_1_slice7.bmp,13
+myr,PALIV_B_Sample_32-33_glyc_scan1_210_1_slice3.bmp,13
+myr,PALIV_B_Sample_34-35_glyc_scan2_349_1_slice3.bmp,13
+myr,PALIV_20-21_slide1_scan3_367_1_slice4.bmp,13
+myr,PALIV_B_17.8_slide1_scan2_76_1_slice5.bmp,13
+myr,PALIV_B_Sample_31-32_scan1_349_1_slice5.bmp,13
+myr,PALIV_24-25_slide 1_scan2_194_2_slice4.bmp,13
+myr,PALIV_B_Sample_26-27_glyc_scan3_385_1_slice5.bmp,13
+myr,PALIV_B_Sample_32-33_glyc_scan1_70_1_slice3.bmp,13
+myr,PALIV_27-28_glycerine_scan 2_297_1_slice7.bmp,13
+myr,PALIV_24-25_slide 1_scan2_194_1_slice4.bmp,13
+myr,PALIV_24-25_slide 1_scan2_211_1_slice4.bmp,13
+myr,PALIV_24-25_slide 1_scan2_67_1_slice4.bmp,13
+myr,PALIV_22-23_slide 1_scan4_222_2_slice1.bmp,13
+myr,PALIV_45-46_glycerine_slide 1_scan3_59_1_slice5.bmp,13
+myr,PALIV_24-25_slide 1_scan2_108_1_slice4.bmp,13
+myr,PALIV_24-25_slide 1_scan2_299_1_slice3.bmp,13
+myr,PALIV_B_17.8_slide1_scan2_352_1_slice5.bmp,13
+myr,PALIV_36-37_slide 1_scan1_161_1_slice4.bmp,13
+myr,PALIV_B_Sample_26-27_glyc_scan1_218_1_slice4.bmp,13
+myr,PALIV_24-25_slide 1_scan2_67_2_slice4.bmp,13
+myr,PALIV_B_17.8_slide1_scan2_330_1_slice6.bmp,13
+api,PALIV_B_19.8_slide2_scan1_350_1_slice6.bmp,14
+api,PALIV_B_Sample_31-32_scan3_105_1_slice5.bmp,14
+api,PALIV_B_Sample_31-32_scan1_267_1_slice4.bmp,14
+api,PALIV_B_Sample_31-32_scan1_54_1_slice3.bmp,14
+api,PALIV_24-25_slide 1_scan2_232_1_slice5.bmp,14
+api,PALIV_25-26_slide 1_scan2_263_1_slice7.bmp,14
+api,PALIV_B_19.8_slide2_scan1_169_1_slice6.bmp,14
+api,PALIV_B_Sample_31-32_scan1_214_1_slice4.bmp,14
+api,PALIV_20-21_slide1_scan3_661_1_slice3.bmp,14
+fun,PALIV_B_Sample_34-35_glyc_scan3_279_1_slice3.bmp,15
+fun,PALIV_B_Sample_31-32_scan2_118_1_slice4.bmp,15
+fun,PALIV_36-37_slide 1_scan1_183_1_slice5.bmp,15
+fun,PALIV_B_19.8_slide2_scan1_211_1_slice6.bmp,15
+fun,PALIV_B_Sample_34-35_glyc_scan1_198_1_slice3.bmp,15
+fun,PALIV_24-25_slide 1_scan2_166_1_slice4.bmp,15
+fun,PALIV_27-28_glycerine_scan 2_181_1_slice5.bmp,15
+fun,PALIV_27-28_glycerine_scan 2_194_1_slice4.bmp,15
+fun,PALIV_B_Sample_33-34_glyc_scan1_267_1_slice7.bmp,15
+fun,PALIV_B_Sample_31-32_scan2_81_1_slice2.bmp,15
+fun,PALIV_B_Sample_33-34_glyc_scan1_67_1_slice6.bmp,15
+fun,PALIV_B_Sample_31-32_scan3_326_1_slice6.bmp,15
+fun,PALIV_B_19_slide2_scan1_135_1_slice6.bmp,15
+fun,PALIV_B_Sample_26-27_glyc_scan1_201_1_slice3.bmp,15
+fun,PALIV_B_Sample_28-29_glyc_scan1_55_1_slice4.bmp,15
+fun,PALIV_22-23_slide 1_scan2_166_1_slice4.bmp,15
+fun,PALIV_B_17.8_slide1_scan2_351_1_slice6.bmp,15
+fun,PALIV_B_Sample_32-33_glyc_scan1_154_1_slice5.bmp,15
+fun,PALIV_B_Sample_31-32_scan1_279_1_slice1.bmp,15
+fun,PALIV_B_Sample_32-33_glyc_scan1_157_1_slice5.bmp,15
+fun,PALIV_27-28_glycerine_scan 2_319_1_slice8.bmp,15
+fun,PALIV_27-28_glycerine_scan 2_263_1_slice7.bmp,15
+fun,PALIV_20-21_slide1_scan3_2_1_slice4.bmp,15
+fun,PALIV_B_Sample_34-35_glyc_scan2_5_1_slice2.bmp,15
+fun,PALIV_B_17.8_slide1_scan2_108_1_slice6.bmp,15
+fun,PALIV_B_19_slide2_scan1_280_1_slice6.bmp,15
+fun,PALIV_B_19_slide2_scan1_234_1_slice6.bmp,15
+fun,PALIV_B_Sample_26-27_glyc_scan1_308_1_slice6.bmp,15
+fun,PALIV_B_Sample_33-34_glyc_scan1_270_1_slice7.bmp,15
+fun,PALIV_B_19.8_slide2_scan1_150_1_slice6.bmp,15
+fun,PALIV_B_17.8_slide1_scan2_170_1_slice6.bmp,15
+fun,PALIV_B_Sample_33-34_glyc_scan1_153_1_slice5.bmp,15
+fun,PALIV_27-28_glycerine_scan 2_138_1_slice3.bmp,15
+fun,PALIV_22-23_slide 1_scan2_73_1_slice5.bmp,15
+fun,PALIV_45-46_glycerine_slide 1_scan1_386_1_slice6.bmp,15
+fun,PALIV_B_Sample_31-32_scan2_67_1_slice6.bmp,15
+fun,PALIV_27-28_glycerine_scan 2_306_1_slice8.bmp,15
+fun,PALIV_27-28_glycerine_scan 2_257_1_slice7.bmp,15
+fun,PALIV_20-21_slide1_scan3_150_1_slice4.bmp,15
+fun,PALIV_36-37_slide 1_scan1_18_1_slice5.bmp,15
+fun,PALIV_B_Sample_31-32_scan3_396_1_slice5.bmp,15
+fun,PALIV_22-23_slide 1_scan4_279_1_slice3.bmp,15
+fun,PALIV_B_Sample_33-34_glyc_scan1_41_1_slice5.bmp,15
+fun,PALIV_B_17.8_slide1_scan2_404_1_slice5.bmp,15
+fun,PALIV_45-46_glycerine_slide 1_scan3_280_1_slice4.bmp,15
+fun,PALIV_B_Sample_33-34_glyc_scan1_225_1_slice7.bmp,15
+fun,PALIV_B_19_slide2_scan1_155_1_slice6.bmp,15
+fun,PALIV_27-28_glycerine_scan 2_87_1_slice0.bmp,15
+fun,PALIV_45-46_glycerine_slide 1_scan2_105_1_slice5.bmp,15
+mon,PALIV_B_Sample_34-35_glyc_scan2_349_1_slice3.bmp,16
+mon,PALIV_36-37_slide 1_scan1_76_1_slice4.bmp,16
+mon,PALIV_B_Sample_33-34_glyc_scan1_76_1_slice5.bmp,16
+mon,PALIV_B_Sample_26-27_glyc_scan1_119_1_slice3.bmp,16
+mon,PALIV_27-28_glycerine_scan 2_279_2_slice3.bmp,16
+mon,PALIV_27-28_glycerine_scan 2_115_1_slice0.bmp,16
+mon,PALIV_45-46_glycerine_slide 1_scan2_289_1_slice4.bmp,16
+mon,PALIV_27-28_glycerine_scan 2_131_1_slice2.bmp,16
+mon,PALIV_B_Sample_26-27_glyc_scan3_82_1_slice3.bmp,16
+mon,PALIV_B_Sample_33-34_glyc_scan1_393_1_slice7.bmp,16
+aln,PALIV_B_Sample_33-34_glyc_scan1_376_1_slice8.bmp,17
+aln,PALIV_22-23_slide 1_scan4_140_1_slice2.bmp,17
+aln,PALIV_B_Sample_26-27_glyc_scan3_150_1_slice5.bmp,17
+aln,PALIV_22-23_slide 1_scan2_356_2_slice3.bmp,17
+aln,PALIV_45-46_glycerine_slide 1_scan3_95_1_slice5.bmp,17
+aln,PALIV_B_19.8_slide2_scan1_344_1_slice6.bmp,17
+aln,PALIV_45-46_glycerine_slide 1_scan2_286_1_slice4.bmp,17
+aln,PALIV_27-28_glycerine_scan 2_181_1_slice5.bmp,17
+aln,PALIV_B_Sample_32-33_glyc_scan1_314_1_slice5.bmp,17
+aln,PALIV_22-23_slide 1_scan4_113_1_slice4.bmp,17
+aln,PALIV_45-46_glycerine_slide 1_scan2_352_1_slice4.bmp,17
+aln,PALIV_B_Sample_31-32_scan1_371_1_slice5.bmp,17
+aln,PALIV_36-37_slide 1_scan1_141_1_slice5.bmp,17
+aln,PALIV_24-25_slide 1_scan2_131_1_slice4.bmp,17
+aln,PALIV_27-28_glycerine_scan 2_144_1_slice3.bmp,17
+aln,PALIV_B_19.8_slide2_scan1_361_1_slice5.bmp,17
+aln,PALIV_22-23_slide 1_scan2_356_1_slice3.bmp,17
+aln,PALIV_B_Sample_31-32_scan1_248_1_slice3.bmp,17
+aln,PALIV_25-26_slide 1_scan2_172_1_slice3.bmp,17
+aln,PALIV_22-23_slide 1_scan2_90_1_slice5.bmp,17
+aln,PALIV_24-25_slide 1_scan1_330_1_slice6.bmp,17
+aln,PALIV_45-46_glycerine_slide 1_scan3_148_1_slice5.bmp,17
+aln,PALIV_B_19_slide2_scan1_129_1_slice6.bmp,17
+aln,PALIV_27-28_glycerine_scan 2_212_1_slice5.bmp,17
+aln,PALIV_B_Sample_33-34_glyc_scan1_65_1_slice7.bmp,17
+aln,PALIV_27-28_slide 1_scan1_102_1_slice3.bmp,17
+aln,PALIV_20-21_slide1_scan3_175_1_slice4.bmp,17
+aln,PALIV_20-21_slide1_scan3_153_1_slice4.bmp,17
+aln,PALIV_B_19_slide2_scan1_375_1_slice6.bmp,17
+aln,PALIV_B_Sample_31-32_scan2_54_1_slice6.bmp,17
+aln,PALIV_22-23_slide 1_scan3_370_1_slice3.bmp,17
+aln,PALIV_B_Sample_33-34_glyc_scan1_235_1_slice5.bmp,17
+aln,PALIV_22-23_slide 1_scan4_230_1_slice2.bmp,17
+aln,PALIV_22-23_slide 1_scan2_109_1_slice5.bmp,17
+aln,PALIV_23-24_slide 1_scan1_238_1_slice3.bmp,17
+aln,PALIV_B_17.8_slide1_scan2_340_1_slice6.bmp,17
+aln,PALIV_24-25_slide 1_scan2_233_1_slice4.bmp,17
+aln,PALIV_B_17.8_slide1_scan2_137_1_slice5.bmp,17
+aln,PALIV_B_19_slide2_scan1_344_1_slice6.bmp,17
+aln,PALIV_B_17.8_slide1_scan2_231_1_slice6.bmp,17
+aln,PALIV_27-28_slide 1_scan1_11_1_slice6.bmp,17
+aln,PALIV_27-28_slide 1_scan1_10_1_slice6.bmp,17
+aln,PALIV_22-23_slide 1_scan2_41_1_slice6.bmp,17
+aln,PALIV_B_17.8_slide1_scan2_395_1_slice5.bmp,17
+aln,PALIV_B_Sample_31-32_scan2_282_1_slice4.bmp,17
+aln,PALIV_25-26_slide 1_scan2_257_1_slice6.bmp,17
+aln,PALIV_B_Sample_33-34_glyc_scan1_278_1_slice4.bmp,17
+aln,PALIV_22-23_slide 1_scan4_129_1_slice3.bmp,17
+aln,PALIV_20-21_slide1_scan3_153_2_slice4.bmp,17
+aln,PALIV_27-28_glycerine_scan 2_311_1_slice8.bmp,17
+aln,PALIV_B_Sample_31-32_scan1_60_1_slice4.bmp,17
+aln,PALIV_B_17.8_slide1_scan2_102_1_slice6.bmp,17
+aln,PALIV_B_17.8_slide1_scan2_147_1_slice6.bmp,17
+aln,PALIV_45-46_glycerine_slide 1_scan1_73_1_slice4.bmp,17
+aln,PALIV_27-28_glycerine_scan 2_332_1_slice8.bmp,17
+aln,PALIV_24-25_slide 1_scan1_139_1_slice5.bmp,17
+aln,PALIV_B_Sample_34-35_glyc_scan3_300_1_slice5.bmp,17
+aln,PALIV_B_Sample_32-33_glyc_scan1_208_1_slice5.bmp,17
+aln,PALIV_27-28_glycerine_scan 2_295_1_slice7.bmp,17
+aln,PALIV_45-46_glycerine_slide 1_scan2_115_1_slice3.bmp,17
+aln,PALIV_B_Sample_26-27_glyc_scan3_50_1_slice5.bmp,17
+aln,PALIV_22-23_slide 1_scan3_232_1_slice3.bmp,17
+aln,PALIV_B_Sample_26-27_glyc_scan3_150_2_slice5.bmp,17
+aln,PALIV_45-46_glycerine_slide 1_scan2_190_1_slice4.bmp,17
+aln,PALIV_24-25_slide 1_scan1_234_1_slice6.bmp,17
+aln,PALIV_B_19_slide2_scan1_255_1_slice6.bmp,17
+aln,PALIV_27-28_slide 1_scan1_102_2_slice3.bmp,17
+aln,PALIV_B_Sample_26-27_glyc_scan3_21_1_slice6.bmp,17
+aln,PALIV_22-23_slide 1_scan3_162_1_slice3.bmp,17
+aln,PALIV_B_Sample_34-35_glyc_scan1_271_1_slice6.bmp,17
+aln,PALIV_B_Sample_26-27_glyc_scan2_287_1_slice4.bmp,17
+aln,PALIV_B_Sample_33-34_glyc_scan1_14_1_slice4.bmp,17
+aln,PALIV_27-28_slide 1_scan1_62_1_slice4.bmp,17
+aln,PALIV_B_Sample_26-27_glyc_scan1_380_1_slice6.bmp,17
+aln,PALIV_21-22_slide 1_scan1_394_1_slice6.bmp,17
+aln,PALIV_B_Sample_32-33_glyc_scan1_205_1_slice4.bmp,17
+aln,PALIV_B_Sample_31-32_scan2_115_1_slice4.bmp,17
+aln,PALIV_B_19.8_slide2_scan1_34_1_slice6.bmp,17
+aln,PALIV_24-25_slide 1_scan2_282_1_slice4.bmp,17
+aln,PALIV_25-26_slide 1_scan1_305_1_slice6.bmp,17
+aln,PALIV_B_Sample_26-27_glyc_scan2_130_1_slice4.bmp,17
+aln,PALIV_25-26_slide 1_scan2_144_1_slice6.bmp,17
+aln,PALIV_B_Sample_34-35_glyc_scan2_220_1_slice3.bmp,17
+aln,PALIV_45-46_glycerine_slide 1_scan3_280_1_slice4.bmp,17
+aln,PALIV_B_Sample_31-32_scan3_338_1_slice7.bmp,17
+aln,PALIV_22-23_slide 1_scan3_270_1_slice3.bmp,17
+aln,PALIV_B_17.8_slide1_scan2_449_1_slice5.bmp,17
+aln,PALIV_B_Sample_26-27_glyc_scan3_21_2_slice5.bmp,17
+lyc,PALIV_45-46_glycerine_slide 1_scan1_170_1_slice3.bmp,18
+lyc,PALIV_45-46_glycerine_slide 1_scan3_360_1_slice2.bmp,18
+lyc,PALIV_B_Sample_34-35_glyc_scan1_248_1_slice4.bmp,18
+lyc,PALIV_22-23_slide 1_scan3_27_1_slice4.bmp,18
+lyc,PALIV_45-46_glycerine_slide 1_scan2_227_1_slice3.bmp,18
+lyc,PALIV_22-23_slide 1_scan2_397_2_slice3.bmp,18
+lyc,PALIV_B_Sample_31-32_scan1_175_1_slice5.bmp,18
+lyc,PALIV_B_Sample_31-32_scan1_374_1_slice6.bmp,18
+lyc,PALIV_25-26_slide 1_scan1_162_1_slice2.bmp,18
+lyc,PALIV_B_17.8_slide1_scan2_208_1_slice5.bmp,18
+lyc,PALIV_20-21_slide1_scan3_572_1_slice3.bmp,18
+lyc,PALIV_B_Sample_31-32_scan1_392_1_slice5.bmp,18
+lyc,PALIV_B_Sample_33-34_glyc_scan1_16_1_slice3.bmp,18
+lyc,PALIV_B_19.8_slide2_scan1_49_1_slice5.bmp,18
+lyc,PALIV_21-22_slide 1_scan1_260_1_slice6.bmp,18
+lyc,PALIV_22-23_slide 1_scan3_29_4_slice5.bmp,18
+lyc,PALIV_24-25_slide 1_scan2_245_1_slice5.bmp,18
+lyc,PALIV_B_Sample_31-32_scan1_36_1_slice2.bmp,18
+lyc,PALIV_22-23_slide 1_scan3_29_2_slice5.bmp,18
+lyc,PALIV_24-25_slide 1_scan1_265_1_slice6.bmp,18
+lyc,PALIV_22-23_slide 1_scan3_125_1_slice3.bmp,18
+lyc,PALIV_24-25_slide 1_scan2_316_1_slice4.bmp,18
+lyc,PALIV_B_Sample_31-32_scan1_41_1_slice4.bmp,18
+lyc,PALIV_24-25_slide 1_scan2_207_1_slice4.bmp,18
+lyc,PALIV_22-23_slide 1_scan3_179_4_slice4.bmp,18
+lyc,PALIV_24-25_slide 1_scan2_123_1_slice4.bmp,18
+lyc,PALIV_36-37_slide 1_scan1_236_1_slice2.bmp,18
+lyc,PALIV_24-25_slide 1_scan2_94_1_slice4.bmp,18
+lyc,PALIV_22-23_slide 1_scan4_172_2_slice2.bmp,18
+lyc,PALIV_27-28_slide 1_scan1_30_1_slice5.bmp,18
+lyc,PALIV_20-21_slide1_scan3_200_1_slice5.bmp,18
+lyc,PALIV_20-21_slide1_scan2_zstack_BMP_13_1_slice6.bmp,18
+lyc,PALIV_22-23_slide 1_scan4_365_1_slice2.bmp,18
+lyc,PALIV_25-26_slide 1_scan1_251_1_slice5.bmp,18
+lyc,PALIV_B_17.8_slide1_scan2_188_1_slice5.bmp,18
+lyc,PALIV_22-23_slide 1_scan2_197_1_slice4.bmp,18
+lyc,PALIV_24-25_slide 1_scan2_384_1_slice4.bmp,18
+lyc,PALIV_B_19.8_slide2_scan1_190_1_slice5.bmp,18
+lyc,PALIV_B_Sample_34-35_glyc_scan3_227_1_slice2.bmp,18
+lyc,PALIV_45-46_glycerine_slide 1_scan1_360_1_slice3.bmp,18
+lyc,PALIV_22-23_slide 1_scan2_205_1_slice4.bmp,18
+lyc,PALIV_22-23_slide 1_scan2_246_1_slice3.bmp,18
+lyc,PALIV_B_19_slide2_scan1_277_1_slice6.bmp,18
+lyc,PALIV_22-23_slide 1_scan2_397_1_slice2.bmp,18
+lyc,PALIV_21-22_slide 1_scan1_281_1_slice5.bmp,18
+lyc,PALIV_21-22_slide 1_scan1_174_2_slice6.bmp,18
+lyc,PALIV_22-23_slide 1_scan4_150_1_slice3.bmp,18
+lyc,PALIV_22-23_slide 1_scan2_245_1_slice4.bmp,18
+lyc,PALIV_22-23_slide 1_scan3_29_3_slice4.bmp,18
+lyc,PALIV_22-23_slide 1_scan2_183_1_slice5.bmp,18
+lyc,PALIV_B_17.8_slide1_scan2_25_1_slice5.bmp,18
+lyc,PALIV_22-23_slide 1_scan3_106_1_slice5.bmp,18
+lyc,PALIV_B_Sample_31-32_scan1_155_2_slice3.bmp,18
+lyc,PALIV_27-28_slide 1_scan1_185_1_slice5.bmp,18
+lyc,PALIV_22-23_slide 1_scan4_103_1_slice2.bmp,18
+pla,PALIV_B_Sample_26-27_glyc_scan1_273_2_slice4.bmp,19
+pla,PALIV_22-23_slide 1_scan4_178_1_slice2.bmp,19
+pla,PALIV_27-28_glycerine_scan 2_144_1_slice3.bmp,19
+pla,PALIV_B_Sample_26-27_glyc_scan1_113_1_slice3.bmp,19
+pla,PALIV_23-24_slide 1_scan1_333_1_slice2.bmp,19
+pla,PALIV_B_Sample_32-33_glyc_scan1_280_1_slice3.bmp,19
+pla,PALIV_36-37_slide 1_scan1_9_1_slice4.bmp,19
+pla,PALIV_B_17.8_slide1_scan2_125_1_slice5.bmp,19
+pla,PALIV_36-37_slide 1_scan1_233_1_slice3.bmp,19
+pla,PALIV_45-46_glycerine_slide 1_scan1_298_1_slice5.bmp,19
+pla,PALIV_B_Sample_34-35_glyc_scan2_9_1_slice2.bmp,19
+pla,PALIV_B_Sample_26-27_glyc_scan3_224_1_slice5.bmp,19
+pla,PALIV_B_17.8_slide1_scan2_450_1_slice6.bmp,19
+pla,PALIV_B_Sample_26-27_glyc_scan1_273_3_slice4.bmp,19
+pla,PALIV_B_17.8_slide1_scan2_74_1_slice6.bmp,19
+pla,PALIV_B_17.8_slide1_scan2_97_1_slice6.bmp,19
+pla,PALIV_B_17.8_slide1_scan2_401_1_slice5.bmp,19
+pla,PALIV_B_17.8_slide1_scan2_294_1_slice6.bmp,19
+pla,PALIV_B_Sample_26-27_glyc_scan1_274_1_slice4.bmp,19
+pla,PALIV_B_19.8_slide2_scan1_341_1_slice6.bmp,19
+pla,PALIV_24-25_slide 1_scan2_277_1_slice4.bmp,19
+pla,PALIV_B_Sample_32-33_glyc_scan1_313_1_slice5.bmp,19
+pla,PALIV_B_Sample_26-27_glyc_scan1_273_1_slice4.bmp,19
+pla,PALIV_B_19.8_slide2_scan1_274_1_slice6.bmp,19
+bot,PALIV_B_17.8_slide1_scan2_189_1_slice6.bmp,20
+bot,PALIV_B_17.8_slide1_scan2_221_1_slice6.bmp,20
+bot,PALIV_B_17.8_slide1_scan2_26_1_slice6.bmp,20
+bot,PALIV_B_17.8_slide1_scan2_87_1_slice5.bmp,20
+bot,PALIV_27-28_glycerine_scan 2_234_1_slice5.bmp,20
+bot,PALIV_27-28_glycerine_scan 2_87_1_slice0.bmp,20
+ast,PALIV_B_Sample_33-34_glyc_scan1_246_1_slice3.bmp,21
+ast,PALIV_25-26_slide 1_scan1_390_1_slice5.bmp,21
+ast,PALIV_24-25_slide 1_scan1_206_1_slice6.bmp,21
+ast,PALIV_B_17.8_slide1_scan2_473_1_slice6.bmp,21
+ast,PALIV_B_Sample_28-29_glyc_scan1_145_1_slice2.bmp,21
+ast,PALIV_B_Sample_31-32_scan2_96_1_slice6.bmp,21
+ast,PALIV_B_19_slide2_scan1_82_1_slice5.bmp,21
+ast,PALIV_25-26_slide 1_scan1_207_1_slice4.bmp,21
+ast,PALIV_B_Sample_34-35_glyc_scan3_329_1_slice3.bmp,21
+ast,PALIV_B_19.8_slide2_scan1_338_1_slice6.bmp,21
+ast,PALIV_21-22_slide 1_scan1_323_1_slice6.bmp,21
+ast,PALIV_24-25_slide 1_scan1_108_1_slice6.bmp,21
+ast,PALIV_20-21_slide1_scan3_668_1_slice3.bmp,21
+ast,PALIV_27-28_slide 1_scan1_87_1_slice7.bmp,21
+ast,PALIV_B_Sample_33-34_glyc_scan1_202_1_slice5.bmp,21
+ast,PALIV_B_Sample_26-27_glyc_scan2_43_1_slice2.bmp,21
+ast,PALIV_22-23_slide 1_scan4_319_1_slice3.bmp,21
+ast,PALIV_22-23_slide 1_scan2_218_1_slice5.bmp,21
+ast,PALIV_B_Sample_31-32_scan3_117_1_slice4.bmp,21
+ast,PALIV_24-25_slide 1_scan1_148_1_slice6.bmp,21
+ast,PALIV_B_Sample_32-33_glyc_scan1_318_1_slice3.bmp,21
+ast,PALIV_24-25_slide 1_scan1_360_1_slice6.bmp,21
+ast,PALIV_B_Sample_26-27_glyc_scan1_311_1_slice6.bmp,21
+ast,PALIV_B_Sample_33-34_glyc_scan1_49_1_slice4.bmp,21
+ast,PALIV_B_17.8_slide1_scan2_320_1_slice5.bmp,21
+ast,PALIV_B_Sample_31-32_scan3_235_1_slice4.bmp,21
+ast,PALIV_B_Sample_32-33_glyc_scan1_239_1_slice2.bmp,21
+ast,PALIV_B_17.8_slide1_scan2_420_1_slice6.bmp,21
+ast,PALIV_B_Sample_32-33_glyc_scan1_377_1_slice8.bmp,21
+ast,PALIV_21-22_slide 1_scan1_14_1_slice5.bmp,21
+ast,PALIV_24-25_slide 1_scan1_323_1_slice6.bmp,21
+ast,PALIV_24-25_slide 1_scan1_63_1_slice5.bmp,21
+ast,PALIV_B_19_slide2_scan1_321_1_slice6.bmp,21
