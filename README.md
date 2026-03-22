@@ -1,6 +1,7 @@
 <div align="center">
 <h1>Short Course: Deep Learning and its Applications to Pollen Analysis</h1>
 
+<h3>by <a href="https://aimerykong.github.io/">Shu Kong</a></h3>
 
 <img src='misc/logo.jpg'>
 </div>
