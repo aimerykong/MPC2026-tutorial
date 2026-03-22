@@ -25,8 +25,8 @@ The syllabus of this course is as follows.
 
 - Jupyter Notebook files are for hands-on coding. They can be imported to Google Colab, which will be used in this short course.
 - For each Jupyter Notebook file, there is an instruction file in pdf format, providing important details.
-- Datasets used in this short course are included in the "datasets" folder.
-- Slides in pdf will be uploaded after this course (by April, 2026).
+- Datasets used in this short course are included in the **datasets** folder.
+- Finalized slides in pdf will be uploaded to the **slides** folder after this course (by April, 2026). 
 
 
 ## Contact
